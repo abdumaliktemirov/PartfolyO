@@ -11672,6 +11672,7 @@ pre .code {
 }
 
 .header .header-content .header-subtitle {
+  margin-bottom: 30px;
   font-weight: 200;
   font-size: calc(20px + (45 - 20) * ((100vw - 300px) / (1600 - 300)));
 }
